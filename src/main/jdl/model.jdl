@@ -1,0 +1,8 @@
+entity Thing {
+  enableSomething Boolean required
+}
+
+paginate * with pagination
+service * with serviceImpl
+dto * with mapstruct
+
