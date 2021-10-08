@@ -108,6 +108,7 @@
   },
   "defaultProject": "entity-out-of-sync",
   "cli": {
+    "analytics": "0a5c79cf-2c8c-4c7e-9d17-5c5aa5963142",
     "packageManager": "npm"
   }
 }

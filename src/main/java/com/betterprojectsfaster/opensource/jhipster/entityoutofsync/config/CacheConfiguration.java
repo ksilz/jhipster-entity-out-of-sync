@@ -48,6 +48,7 @@ public class CacheConfiguration {
             createCache(cm, com.betterprojectsfaster.opensource.jhipster.entityoutofsync.domain.User.class.getName());
             createCache(cm, com.betterprojectsfaster.opensource.jhipster.entityoutofsync.domain.Authority.class.getName());
             createCache(cm, com.betterprojectsfaster.opensource.jhipster.entityoutofsync.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.betterprojectsfaster.opensource.jhipster.entityoutofsync.domain.Thing.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
